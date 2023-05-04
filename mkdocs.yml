@@ -246,6 +246,7 @@ nav:
   - маска слоя:               layer_mask.md
   - кисть:                    brush.md
   - линейка (кисть):          ruler_brush.md
+  - кривая кисть:             curve_brush.md
   - рисовать различными формами: paint_with_shapes.md
   - трансформирование:        transform.md
   - векторный слой:           vector_layer.md
